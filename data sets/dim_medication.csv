@@ -1,0 +1,64 @@
+medication_id,name,manufacturer,dosage_form,strength,description
+1,Ibuprofen,"ABC Pharma",Tablet,200mg,"Pain reliever"
+2,Amoxicillin,"XYZ Pharmaceuticals",Capsule,500mg,Antibiotic
+3,Loratadine,MediCo,Tablet,10mg,"Antihistamine for allergies"
+4,Simvastatin,Pharmalife,Tablet,20mg,"Cholesterol-lowering medication"
+5,Omeprazole,HealthMeds,Capsule,40mg,"Acid reflux treatment"
+6,Metformin,"Wellness Drugs",Tablet,1000mg,"Type 2 diabetes medication"
+7,Albuterol,BreathEasy,Inhaler,100mcg,"Bronchodilator for asthma"
+8,Aspirin,HealPharma,Tablet,81mg,"Blood thinner"
+9,Cetirizine,AllergyCare,Tablet,10mg,"Antihistamine for allergies"
+10,Losartan,HeartGuard,Tablet,50mg,"Blood pressure medication"
+11,Metoprolol,CardioHealth,Tablet,25mg,"Beta blocker for hypertension"
+12,Levothyroxine,ThyroidWell,Tablet,100mcg,"Thyroid hormone replacement"
+13,Atorvastatin,CholesterolControl,Tablet,40mg,"Cholesterol-lowering medication"
+14,Prednisone,ReliefMeds,Tablet,10mg,Anti-inflammatory
+15,Fluoxetine,MindBalance,Capsule,20mg,Antidepressant
+16,Warfarin,BloodCare,Tablet,5mg,Anticoagulant
+17,Diphenhydramine,SleepEase,Tablet,25mg,"Sleep aid"
+18,Furosemide,KidneyCare,Tablet,40mg,"Diuretic for fluid retention"
+19,Meloxicam,PainRelief,Tablet,15mg,"Pain and inflammation relief"
+20,Hydrochlorothiazide,WaterBalance,Tablet,12.5mg,"Diuretic for hypertension"
+21,Ciprofloxacin,MicroMed,Tablet,500mg,"Antibiotic for infections"
+22,Paracetamol,ReliefMeds,Tablet,500mg,"Pain and fever reliever"
+23,Esomeprazole,GastroGuard,Capsule,20mg,"Proton pump inhibitor"
+24,Prednisolone,InflammationControl,Tablet,5mg,Anti-inflammatory
+25,Montelukast,AsthmaCare,Tablet,10mg,"Leukotriene receptor antagonist for asthma"
+26,Rosuvastatin,HeartCare,Tablet,10mg,"Cholesterol-lowering medication"
+27,Cephalexin,MediCure,Capsule,250mg,Antibiotic
+28,Hydrocodone,PainRelief,Tablet,5mg,"Pain reliever"
+29,Fluticasone,BreatheEasy,Inhaler,50mcg,"Corticosteroid inhaler for asthma"
+30,Azithromycin,MicroMed,Tablet,250mg,"Antibiotic for infections"
+31,Duloxetine,MindBalance,Capsule,30mg,Antidepressant
+32,Bupropion,HappinessRx,Tablet,150mg,"Antidepressant and smoking cessation aid"
+33,Amlodipine,CardioHealth,Tablet,5mg,"Calcium channel blocker for hypertension"
+34,Lisinopril,HeartGuard,Tablet,10mg,"ACE inhibitor for hypertension"
+35,Venlafaxine,MoodStabilize,Capsule,75mg,Antidepressant
+36,Celecoxib,JointRelief,Capsule,100mg,"Anti-inflammatory for joint pain"
+37,Ranitidine,StomachEase,Tablet,150mg,"Antacid and H2 blocker"
+38,Trazodone,SleepWell,Tablet,50mg,"Sleep aid and antidepressant"
+39,Escitalopram,EmotionBalance,Tablet,10mg,Antidepressant
+40,Oxycodone,PainRelief,Tablet,10mg,"Strong pain reliever"
+41,Gabapentin,NeuroCare,Capsule,300mg,"Anticonvulsant and neuropathic pain medication"
+42,Lorazepam,AnxietyControl,Tablet,2mg,"Anti-anxiety medication"
+43,Melatonin,SleepAid,Tablet,5mg,"Natural sleep aid"
+44,Dexamethasone,InflammationControl,Tablet,4mg,"Potent anti-inflammatory"
+45,Tramadol,PainRelief,Tablet,50mg,"Moderate to severe pain relief"
+46,Levothyroxine,ThyroidCare,Tablet,50mcg,"Thyroid hormone replacement"
+47,Metoclopramide,StomachEase,Tablet,10mg,"Anti-nausea and digestive aid"
+48,Naproxen,PainRelief,Tablet,220mg,"Nonsteroidal anti-inflammatory drug"
+49,Cetirizine,AllergyControl,Tablet,5mg,"Antihistamine for allergies"
+50,Diazepam,AnxietyEase,Tablet,10mg,"Anti-anxiety medication"
+51,Sildenafil,LoveLife,Tablet,50mg,"Erectile dysfunction treatment"
+52,Fexofenadine,AllergyRelief,Tablet,180mg,"Antihistamine for allergies"
+53,Sertraline,MoodBalance,Tablet,50mg,Antidepressant
+54,Amitriptyline,MoodStabilize,Tablet,25mg,Antidepressant
+55,Olanzapine,MentalHealth,Tablet,10mg,"Antipsychotic medication"
+56,Venlafaxine,MindBalance,Capsule,150mg,Antidepressant
+57,Fluconazole,MicroMed,Tablet,150mg,"Antifungal medication"
+58,Citalopram,EmotionBalance,Tablet,20mg,Antidepressant
+59,Alprazolam,AnxietyRelief,Tablet,0.5mg,"Anti-anxiety medication"
+60,Hydroxyzine,CalmEase,Tablet,25mg,"Antihistamine and anti-anxiety"
+61,Risperidone,MentalHealth,Tablet,2mg,"Antipsychotic medication"
+62,Mirtazapine,MoodStabilize,Tablet,15mg,Antidepressant
+63,Prednisolone,InflammationControl,Tablet,10mg,Anti-inflammatory
